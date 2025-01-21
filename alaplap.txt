@@ -1,0 +1,26 @@
+Gyártó: ECS
+Típus: A740GM-M
+Processzor: AMD Phenom, AMD Athlon 64 Dual Core/64 Sempron
+Chipset: AMD® 740G & AMD® SB710
+Grafika: DirectX 9
+Memória: Dual-channel DDR2, Max 8 GB
+Bővítési hely: 1 x PCI Express x16 slot, 1 x PCI Express x1 slot, 2 x PCI slots
+Tárhely: 2 db Ultra DMA133/100/66, 6 db Serial ATA 3,0 Gb/s, RAID0, RAID1, RAID10
+Hang: IDT 92HD202 6 csatornás hang, HD audio
+LAN: Realtek RTL8103EL 10/100
+Hátsó panel: 1 x Ethernet port, 1 x PS/2 billentyűzet és PS/2 egér csatlakozó, 1 x soros port (COM1), 1x VGA port, 4 x USB 2.0 port, 1x audio port (vonal bemenet, vonalkimenet, mikrofon bemenet), 1 x DVI csatlakozó (opcionális)
+Belső csatlakozók: 	1 x 24 tűs ATX tápegység csatlakozó
+			1 x 4 tűs 12V-os csatlakozó
+			1 x CPU_FAN csatlakozó
+			1 x SYS ventilátorfej
+			1x IDE csatlakozó
+			6 db Serial ATA 3Gb/s csatlakozó
+			1 x hangszóró fejléc
+			1 x előlapi kapcsoló/LED fejléc
+			1 x előlapi hangfejléc
+			1 x SPDIF kimenet fejléc
+			1 x CD a fejlécben
+			3 x USB fejléc
+			1 x LPT fejléc
+			1 x IR fejléc
+Rendszer BIOS: AMI BIOS 8Mb SPI
