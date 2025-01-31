@@ -24,3 +24,5 @@ Belső csatlakozók: 	1 x 24 tűs ATX tápegység csatlakozó
 			1 x LPT fejléc
 			1 x IR fejléc
 Rendszer BIOS: AMI BIOS 8Mb SPI
+
+SZIAAAAA
