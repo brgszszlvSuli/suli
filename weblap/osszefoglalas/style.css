@@ -21,9 +21,19 @@ div {
     border-width: 5px;
     padding: 10px;
     text-align: justify;
+    margin-bottom: 10px;
 }
 
-td p {
+td {
+    /* border-style: solid;
+    border-color: black;
+    border-width: 3px; */
+    border-radius: 10px;
+    border: solid blue 4px;
+    width: 150px;
+}
+
+td>p {
     font-weight: bold;
     text-align: center;
 }
@@ -32,6 +42,32 @@ img {
     width: 100px;
 }
 
+table {
+    margin: 0 auto;
+    text-align: justify;
+
+}
+
 #lorem {
     font-size: 120%;
+}
+
+.h {
+    color: green;
+}
+
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+footer {
+    text-align: right;
 }
